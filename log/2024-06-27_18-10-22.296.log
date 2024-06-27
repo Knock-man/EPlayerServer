@@ -1,0 +1,3 @@
+/home/xbj/projects/EPlayer/src/Server/EdoyunPlayerServer.cpp(105):[INFO][2024-06-27_18-10-25.034]<20545-140074777839616>(Connected) client connected addr 127.0.0.1 port:16853
+/home/xbj/projects/EPlayer/src/Server/EdoyunPlayerServer.cpp(142):[ERROR][2024-06-27_18-10-26.411]<20545-140074777708096>(HttpParser) size 0 errno:127
+/home/xbj/projects/EPlayer/src/Server/EdoyunPlayerServer.cpp(119):[ERROR][2024-06-27_18-10-26.411]<20545-140074777708096>(Received) http parser failed! ret=-1

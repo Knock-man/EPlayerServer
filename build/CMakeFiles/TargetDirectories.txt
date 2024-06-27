@@ -1,0 +1,3 @@
+/home/xbj/projects/EPlayerServer/build/CMakeFiles/app.dir
+/home/xbj/projects/EPlayerServer/build/CMakeFiles/edit_cache.dir
+/home/xbj/projects/EPlayerServer/build/CMakeFiles/rebuild_cache.dir

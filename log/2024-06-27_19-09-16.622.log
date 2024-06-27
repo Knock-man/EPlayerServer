@@ -1,0 +1,5 @@
+/home/xbj/projects/EPlayerServer/src/Server/EdoyunPlayerServer.cpp(105):[INFO][2024-06-27_19-09-20.378]<29722-140266067920896>(Connected) client connected addr 127.0.0.1 port:-31546
+/home/xbj/projects/EPlayerServer/src/Server/EdoyunPlayerServer.cpp(142):[ERROR][2024-06-27_19-09-23.452]<29722-140266067789376>(HttpParser) size 0 errno:127
+/home/xbj/projects/EPlayerServer/src/Server/EdoyunPlayerServer.cpp(119):[ERROR][2024-06-27_19-09-23.452]<29722-140266067789376>(Received) http parser failed! ret=-1
+/home/xbj/projects/EPlayerServer/src/Server/EdoyunPlayerServer.cpp(263):[WARNING][2024-06-27_19-09-25.363]<29722-140266059335232>(ThreadFunc) Recv failded! ret=-3 errno=0 msg=[Success]
+/home/xbj/projects/EPlayerServer/src/Server/EdoyunPlayerServer.cpp(263):[WARNING][2024-06-27_19-09-25.364]<29722-140266067789376>(ThreadFunc) Recv failded! ret=-3 errno=0 msg=[Success]
